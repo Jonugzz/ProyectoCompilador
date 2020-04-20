@@ -1,0 +1,17 @@
+programa foreveralone;
+var 
+int i, j;
+float arr[10];
+
+funcion int pb();
+var 
+int f;
+int no[5], tal[9];
+{
+regresa(1 + 1);
+}
+
+principal()
+{
+pb(lol);
+}
